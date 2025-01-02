@@ -47,7 +47,9 @@
   "dependencies": {
     "@huggingface/inference": "^2.5.0",
     "async": "^3.2.4",
+    "axios": "^1.7.7",
     "isomorphic-ws": "^5.0.0",
+    "midjourney": "^4.3.17",
     "semiver": "^1.1.0",
     "snowyflake": "^2.0.0",
     "tslib": "^2.5.0",

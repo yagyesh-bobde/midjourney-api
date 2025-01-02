@@ -1,0 +1,16 @@
+{
+  "uris": {
+    "Zoey": "https://cdn.discordapp.com/attachments/1268908536293888062/1303069510328254495/kwiktwik_Beautiful_woman_in_early_thirties_tired_eyes_professio_0e8e0647-9d41-4c7c-b846-deb7d8e6363f.png?ex=672a698d&is=6729180d&hm=c1bf3b8c3cc202fd70e3099ce0a5726221f3591ec31da96d081ff1bfa0c6be23&",
+    "Blaine": "https://cdn.discordapp.com/attachments/1268908536293888062/1303069709603700786/kwiktwik_Handsome_male_surgeon_in_mid-thirties_sophisticated_ap_d64fb64f-25f8-4d56-9ae0-5df00ed460a8.png?ex=672a69bc&is=6729183c&hm=74fe2ac392926d69052404ac1133e84435ba123c4dded9388328d9f5fcea5ea0&",
+    "Max": "https://cdn.discordapp.com/attachments/1268908536293888062/1303069907658997760/kwiktwik_Four-year-old_boy_with_pale_skin_bright_hopeful_eyes_g_90720685-6503-4c73-a228-d606e39504a2.png?ex=672a69eb&is=6729186b&hm=627157a97aba834e77460f0be2a851dda4b7ace48adaca68e26ed0c7f6fbe0df&",
+    "Sophia": "https://cdn.discordapp.com/attachments/1268908536293888062/1303070122394652702/kwiktwik_Beautiful_sophisticated_woman_in_early_thirties_wealth_adc11ca3-91d1-4084-a5c7-4834648ef3ab.png?ex=672a6a1f&is=6729189f&hm=4219a3ff0cc918de8d43fba9280364dfcc62d83735644cd61d1e00a4e70237c2&",
+    "Mother": "https://cdn.discordapp.com/attachments/1268908536293888062/1303070349700628611/kwiktwik_Kind_worried_woman_in_late_fifties_gentle_features_con_18bb6f3c-8660-4357-8468-b93ab7f5efef.png?ex=672a6a55&is=672918d5&hm=901f4808063cd9c733e6d6acd02f3d17f694cbe183a7bcfe3de280598fcaef25&"
+  },
+  "files": {
+    "Zoey": "output/character_images/Zoey.png",
+    "Blaine": "output/character_images/Blaine.png",
+    "Max": "output/character_images/Max.png",
+    "Sophia": "output/character_images/Sophia.png",
+    "Mother": "output/character_images/Mother.png"
+  }
+}
